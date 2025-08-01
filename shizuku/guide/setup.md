@@ -1,6 +1,6 @@
 # User manual
 
-[[toc]]
+[[toc]]k oxix
 
 ## Start Shizuku
 
